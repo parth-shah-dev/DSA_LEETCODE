@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0066-plus-one) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
