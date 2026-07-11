@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0066-plus-one) |
+| [0704-binary-search](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
