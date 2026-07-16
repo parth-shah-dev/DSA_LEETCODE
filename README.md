@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0704-binary-search) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
