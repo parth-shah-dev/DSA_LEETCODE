@@ -5,12 +5,12 @@ class Solution {
             if(n==1){
                 con++;
             }else{
-                
+                max=Math.max(con,max);
                 con=0;
             }
-            max=Math.max(con,max);
+            
         }
-        
+         max=Math.max(con,max);
         return max;
     }
 }
