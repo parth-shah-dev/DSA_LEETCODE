@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0904-fruit-into-baskets](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Two Pointers
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
 ## Sorting
 |  |
