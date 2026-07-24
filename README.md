@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0704-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
