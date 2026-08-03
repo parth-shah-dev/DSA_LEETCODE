@@ -1,13 +1,20 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int maxsum=nums[0],sum=0;
-        for(int num : nums){
-            sum+=num;
-            maxsum=Math.max(sum,maxsum);
-            if(sum<0){
-            sum=0;
-            }
+        // Initialize maxsum to the lowest possible integer to handle all-negative arrays
+        int maxsum = Integer.MIN_VALUE; 
+        int sum = 0;
+        int minsum = 0; // Tracks the smallest prefix sum seen so far
+        
+        for (int num : nums) {
+            sum += num;
+            
+            // 1. Calculate the best subarray ending at the current position
+            maxsum = Math.max(maxsum, sum - minsum);
+            
+            // 2. Update the lowest prefix sum for future iterations
+            minsum = Math.min(minsum, sum);
         }
+        
         return maxsum;
     }
 }
