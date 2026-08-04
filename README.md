@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
