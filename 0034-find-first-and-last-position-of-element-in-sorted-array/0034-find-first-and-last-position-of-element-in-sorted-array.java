@@ -1,40 +1,51 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] arr=new int[2];
-        int low=0;
-        int high=nums.length-1;
-        int lefti=-1;
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(nums[mid]==target){
-                lefti=mid;
-                high=mid-1;
-            }
-            else if(nums[mid]>target){
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
-            }
-        }
-        arr[0]=lefti;
-        low=0;
-        high=nums.length-1;
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(nums[mid]==target){
-                lefti=mid;
-                low=mid+1;
-            }
-            else if(nums[mid]>target){
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
+        int first = findFirst(nums, target);
+        int last = findLast(nums, target);
+
+        return new int[]{first, last};
+    }
+
+    private int findFirst(int[] nums, int target) {
+        int left = 0;
+        int right = nums.length - 1;
+        int ans = -1;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (nums[mid] == target) {
+                ans = mid;
+                right = mid - 1; // search left
+            } else if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
             }
         }
-        arr[1]=lefti;
-        return arr;
+
+        return ans;
+    }
+
+    private int findLast(int[] nums, int target) {
+        int left = 0;
+        int right = nums.length - 1;
+        int ans = -1;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (nums[mid] == target) {
+                ans = mid;
+                left = mid + 1; // search right
+            } else if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
+
+        return ans;
     }
 }
 
