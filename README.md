@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0069-sqrtx) |
+| [0227-basic-calculator-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0227-basic-calculator-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
