@@ -1,5 +1,9 @@
+import java.util.Stack;
+
 class Solution {
     public int calculate(String s) {
+        if (s == null || s.length() == 0) return 0;
+
         Stack<Integer> stack = new Stack<>();
         int num = 0;
         char op = '+';
@@ -11,6 +15,7 @@ class Solution {
                 num = num * 10 + (ch - '0');
             }
 
+            // Process operator on reaching a non-space symbol or the end of the string
             if ((!Character.isDigit(ch) && ch != ' ') || i == s.length() - 1) {
                 if (op == '+') {
                     stack.push(num);
