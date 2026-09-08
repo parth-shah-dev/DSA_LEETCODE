@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0394-decode-string) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0394-decode-string) |
 ## Design
