@@ -4,27 +4,11 @@ class Solution {
         int count=0;
         for(char ch:s.toCharArray()){
             
-            if(!stack.isEmpty() && stack.peek()=='A' ){
-               
-                if(ch=='B'){
-                    count--;
-                    stack.pop();  
-                } 
-                else{
-                    count++;
-                    stack.push(ch);
-                } 
+            if(!stack.isEmpty() && ( (stack.peek()=='A' && ch=='B') || (stack.peek()=='C' && ch=='D') ) ){
+            count--;
+             stack.pop();
             }
-            else if(!stack.isEmpty() && stack.peek()=='C'){
-                 if(ch=='D'){
-                    count--;
-                    stack.pop();  
-                } 
-                else{
-                    count++;
-                    stack.push(ch);
-                } 
-            }
+            
             else{
                 count++;
                 stack.push(ch);
