@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
