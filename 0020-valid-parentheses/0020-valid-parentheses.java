@@ -1,29 +1,28 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
 
-        for (char ch : s.toCharArray()) {
-            if (ch == '{' || ch == '[' || ch == '(') {
-                stack.push(ch);
+        if (s.length() % 2 != 0) return false;
+
+        char[] stack = new char[s.length()];
+        int top = -1;
+
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            if (ch == '(') {
+                stack[++top] = ')';
+            } else if (ch == '{') {
+                stack[++top] = '}';
+            } else if (ch == '[') {
+                stack[++top] = ']';
             } else {
-                // If a closing bracket appears but stack is empty, it's unbalanced
-                if (stack.isEmpty()) {
-                    return false;
-                }
 
-                if (stack.peek() == '[' && ch == ']') {
-                    stack.pop();
-                } else if (stack.peek() == '{' && ch == '}') {
-                    stack.pop();
-                } else if (stack.peek() == '(' && ch == ')') {
-                    stack.pop();
-                } else {
+                if (top == -1 || stack[top--] != ch) {
                     return false;
                 }
             }
         }
 
-        return stack.isEmpty();
+        return top == -1;
     }
 }
 
