@@ -13,7 +13,7 @@ class MyStack {
         while (q1.size() > 1) {
             q2.offer(q1.poll());
         }
-        int val = q1.poll(); // Removed from stack, do not offer back to q2
+        int val = q1.poll(); 
         q1 = q2;
         q2 = new LinkedList<>();
         return val;
