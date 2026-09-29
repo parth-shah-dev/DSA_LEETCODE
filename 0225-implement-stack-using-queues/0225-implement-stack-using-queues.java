@@ -24,7 +24,7 @@ class MyStack {
             q2.offer(q1.poll());
         }
         int val = q1.peek();
-        q2.offer(val); // Keep top element in stack
+        q2.offer(val); 
         q1 = q2;
         q2 = new LinkedList<>();
         return val;
