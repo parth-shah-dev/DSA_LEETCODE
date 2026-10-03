@@ -14,7 +14,7 @@ class Solution {
                 continue;
             }
 
-            // Compare top of stack with current character 'ch'
+        
             while (!stack.isEmpty() 
                    && stack.charAt(stack.length() - 1) > ch 
                    && lastindex[stack.charAt(stack.length() - 1) - 'a'] > i) {
