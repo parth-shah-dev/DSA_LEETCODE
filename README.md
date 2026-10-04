@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
