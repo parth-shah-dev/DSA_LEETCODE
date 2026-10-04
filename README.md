@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
@@ -330,4 +333,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
