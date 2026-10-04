@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2396-strictly-palindromic-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
+| [2396-strictly-palindromic-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
