@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2396-strictly-palindromic-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0394-decode-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
