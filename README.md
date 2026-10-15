@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0394-decode-string) |
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
