@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
@@ -401,8 +403,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0078-subsets) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
