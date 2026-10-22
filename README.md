@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0344-reverse-string) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
