@@ -8,15 +8,15 @@ public class Solution {
         ListNode fast = head;
 
         while (fast != null && fast.next != null) {
-            slow = slow.next;         // moves 1 step
-            fast = fast.next.next;    // moves 2 steps
+            slow = slow.next;         
+            fast = fast.next.next;    
 
             if (slow == fast) {
-                return true;          // pointers met, cycle exists
+                return true; 
             }
         }
 
-        return false;                 // fast reached null, no cycle
+        return false;                
     }
 }
 
