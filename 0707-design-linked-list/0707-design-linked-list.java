@@ -14,7 +14,7 @@ class MyLinkedList {
         }
     }
 
-    private final ListNode head; // Dummy head node
+    private final ListNode head; 
     private int size;
 
     public MyLinkedList() {
@@ -43,12 +43,12 @@ class MyLinkedList {
     }
 
     public void addAtIndex(int index, int val) {
-        // If index is greater than the length, the node will not be inserted
+       
         if (index > size) {
             return;
         }
 
-        // If index is negative, insert at head
+        
         if (index < 0) {
             index = 0;
         }
