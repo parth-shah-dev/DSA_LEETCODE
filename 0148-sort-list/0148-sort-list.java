@@ -1,20 +1,20 @@
 class Solution {
     public ListNode sortList(ListNode head) {
-        // Fix: return head instead of null
+      
         if (head == null || head.next == null)
             return head; 
 
         ListNode slow = head;
         ListNode fast = head;
         
-        // Find the middle of the linked list
+       
         while (fast != null && fast.next != null && fast.next.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
         
         ListNode second = slow.next;
-        slow.next = null; // Break the list into two halves
+        slow.next = null;
 
         ListNode left = sortList(head);
         ListNode right = sortList(second);
