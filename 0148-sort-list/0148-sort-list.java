@@ -1,27 +1,47 @@
 class Solution {
     public ListNode sortList(ListNode head) {
-        if (head == null)
-            return null;
+        // Fix: return head instead of null
+        if (head == null || head.next == null)
+            return head; 
+
+        ListNode slow = head;
+        ListNode fast = head;
         
-        ArrayList<Integer> list = new ArrayList<>();
-        ListNode curr = head;
-        
-        while (curr != null) {
-            list.add(curr.val);
-            curr = curr.next;
+        // Find the middle of the linked list
+        while (fast != null && fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
         
-        Collections.sort(list);
-        
-        curr = head;
-        int index = 0;
-        
-        while (curr != null) {
-            curr.val = list.get(index++);
+        ListNode second = slow.next;
+        slow.next = null; // Break the list into two halves
+
+        ListNode left = sortList(head);
+        ListNode right = sortList(second);
+
+        return merge(left, right);
+    }
+
+    private ListNode merge(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode(0);
+        ListNode curr = dummy;
+        while (l1 != null && l2 != null) {
+            if (l1.val <= l2.val) {
+                curr.next = l1;
+                l1 = l1.next;
+            } else {
+                curr.next = l2;
+                l2 = l2.next;
+            }
             curr = curr.next;
         }
-        
-        return head;
+        if (l1 != null) {
+            curr.next = l1;
+        }
+        if (l2 != null) {
+            curr.next = l2;
+        }
+        return dummy.next;
     }
 }
 
