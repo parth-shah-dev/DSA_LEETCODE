@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0283-move-zeroes) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [1552-magnetic-force-between-two-balls](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Range Minimum/Maximum Query
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -452,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
