@@ -3,29 +3,39 @@ class Solution {
         if (head == null || head.next == null)
             return;
         
-        ArrayList<ListNode> list = new ArrayList<>();
-        ListNode curr = head;
+        // 1. Find the middle of the linked list
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
         
+        // 2. Reverse the second half
+        ListNode second = slow.next;
+        slow.next = null; // Break the list into two halves
+        ListNode prev = null;
+        ListNode curr = second;
         while (curr != null) {
-            list.add(curr);
-            curr = curr.next;
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
         
-        int left = 0;
-        int right = list.size() - 1;
-        
-        while (left < right) {
-            list.get(left).next = list.get(right);
-            left++;
+        // 3. Merge the two halves
+        ListNode first = head;
+        second = prev;
+        while (second != null) {
+            ListNode next1 = first.next;
+            ListNode next2 = second.next;
             
-            if (left == right)
-                break;
-                
-            list.get(right).next = list.get(left);
-            right--;
+            first.next = second;
+            second.next = next1;
+            
+            first = next1;
+            second = next2;
         }
-        
-        list.get(left).next = null;
     }
 }
 
