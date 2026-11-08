@@ -2,8 +2,7 @@ class Solution {
     public void reorderList(ListNode head) {
         if (head == null || head.next == null)
             return;
-        
-        // 1. Find the middle of the linked list
+   
         ListNode slow = head;
         ListNode fast = head;
         while (fast != null && fast.next != null) {
@@ -11,9 +10,8 @@ class Solution {
             fast = fast.next.next;
         }
         
-        // 2. Reverse the second half
         ListNode second = slow.next;
-        slow.next = null; // Break the list into two halves
+        slow.next = null; 
         ListNode prev = null;
         ListNode curr = second;
         while (curr != null) {
@@ -23,7 +21,7 @@ class Solution {
             curr = next;
         }
         
-        // 3. Merge the two halves
+        
         ListNode first = head;
         second = prev;
         while (second != null) {
