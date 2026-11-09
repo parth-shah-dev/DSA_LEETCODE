@@ -7,20 +7,15 @@ class Solution {
         ListNode prev = dummy;
         ListNode curr = head;
         
-        while (curr != null) {
-            // Check if current node has duplicates ahead
-            if (curr.next != null && curr.val == curr.next.val) {
-                // Skip all nodes with the duplicate value
+        while (curr != null && curr.next != null) {
+            if (curr.val == curr.next.val) {
                 while (curr.next != null && curr.val == curr.next.val) {
                     curr = curr.next;
                 }
-                // Connect previous to the node after the duplicates
                 prev.next = curr.next;
             } else {
-                // No duplicate found, move prev pointer forward
                 prev = prev.next;
             }
-            // Move current pointer forward
             curr = curr.next;
         }
         
