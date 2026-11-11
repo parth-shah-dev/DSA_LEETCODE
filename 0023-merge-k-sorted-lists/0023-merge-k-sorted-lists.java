@@ -1,23 +1,24 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
+        PriorityQueue<ListNode> pq = 
+            new PriorityQueue<>((a, b) -> a.val - b.val);
 
-        ArrayList<Integer> nums = new ArrayList<>();
-
-        for (ListNode head : lists) {
-            while (head != null) {
-                nums.add(head.val);
-                head = head.next;
-            }
+        for (ListNode node : lists) {
+            if (node != null)
+                pq.offer(node);
         }
-
-        Collections.sort(nums);
 
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
 
-        for (int num : nums) {
-            curr.next = new ListNode(num);
+        while (!pq.isEmpty()) {
+            ListNode node = pq.poll(); 
+
+            curr.next = node; 
             curr = curr.next;
+
+            if (node.next != null)
+                pq.offer(node.next); 
         }
 
         return dummy.next;
