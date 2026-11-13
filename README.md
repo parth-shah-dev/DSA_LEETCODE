@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0233-number-of-digit-one) |
+| [0445-add-two-numbers-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0877-stone-game) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0735-asteroid-collision) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
