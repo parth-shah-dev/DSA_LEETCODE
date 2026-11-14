@@ -1,33 +1,27 @@
 class Solution {
     public int[] nextLargerNodes(ListNode head) {
-        ArrayList<Integer> ans = new ArrayList<>();
-        ListNode curr = head;
-        
-        // Step 1: Traverse the linked list and store values in an ArrayList
-        while (curr != null) {
-            ans.add(curr.val);
-            curr = curr.next;
+    ArrayList<Integer> nums=new ArrayList<>();
+    ListNode curr=head;
+    while(curr!=null){
+        nums.add(curr.val);
+        curr=curr.next;
+    }
+    int n=nums.size();
+    int[] ans=new int[n];
+
+    Stack<Integer> stack=new Stack<>();
+
+    for(int i=n-1;i>=0;i--){
+        while(!stack.isEmpty() && stack.peek() <= nums.get(i)){
+            stack.pop();
         }
-        
-        int[] result = new int[ans.size()];
-        Stack<Integer> stack = new Stack<>();
-        
-        // Step 2: Iterate from right to left to find the next greater element using a stack
-        for (int i = ans.size() - 1; i >= 0; i--) {
-            while (!stack.isEmpty() && stack.peek() <= ans.get(i)) {
-                stack.pop();
-            }
-            
-            if (!stack.isEmpty()) {
-                result[i] = stack.peek();
-            } else {
-                result[i] = 0; // Default if no greater element exists
-            }
-            
-            stack.push(ans.get(i));
-        }
-        
-        return result;
+        if(!stack.isEmpty())
+        ans[i]=stack.peek();
+
+        stack.push(nums.get(i));
+
+    }
+    return ans;
     }
 }
 
