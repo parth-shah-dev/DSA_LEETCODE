@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Range Minimum/Maximum Query
@@ -509,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0460-lfu-cache) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
