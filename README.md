@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0321-create-maximum-number) |
+| [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0494-target-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
@@ -353,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Range Minimum/Maximum Query
 |  |
@@ -518,4 +524,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
