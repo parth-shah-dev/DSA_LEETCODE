@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0724-find-pivot-index) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [1552-magnetic-force-between-two-balls](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -346,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parth-shah-dev/DSA_LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
